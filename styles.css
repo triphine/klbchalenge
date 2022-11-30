@@ -1,0 +1,209 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  html{
+    font-size: 62.5%;
+  }
+  .bodyContainer{
+    background-color: #4C6FFF;
+    height: 600px;
+    width: 800px;
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-top: 5rem;
+    margin-left: 300px;
+    margin-top: 50px;
+  
+  }
+  .Right-Container{
+    background-color: rgb(186, 186, 236);
+    height: 600px;
+    width: 500px;
+    position: absolute;
+    top: 50px;
+    right: 240px;
+    
+    
+  }
+  .Sub-Container{
+    background-color: white;
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    top: 90px;
+    left: 350px;
+    border-radius: 30px;
+  }
+  
+  .content1{
+    background-color: #ede9ea;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+   
+    
+  }
+  .menu{
+    width: 40%;
+    margin-left: 7rem;
+    padding-top: 19rem;
+    
+  
+  }
+  .menu h1 p{
+    color: black;
+  }
+  .menu h1 {
+  
+   font-size: 2rem;
+   padding-left: 9rem;
+   padding-top: 9rem;
+  }
+  .menu  p{
+   font-size: 1.2rem;
+  }
+  .formal{
+    width: 35%;
+    height: 90%;
+    margin-left: 37rem;
+    padding-top: 2rem;
+   
+    
+  
+  }
+  .form{
+    
+    background-color: rgb(241, 241, 245);
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 4px;
+    padding: 2rem;
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+    height: 40rem;
+    width: 25rem;
+  
+  }
+  
+  .container-header{
+   
+   
+    width: 100%;
+    height: 6rem;
+    margin-top: 2rem;
+    border-radius: 2px;
+    padding: 2rem;
+    color: black;
+    
+   }
+  
+  .container{
+   
+    width: 100%;
+    padding: 1.5rem;
+  }
+  .containerwe p{
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+    font-style: bold;
+    padding-top: 1px;
+    padding-left: 7rem;
+  }
+  h1{
+    color: rgb(4, 4, 4);
+    font-size: 1rem;
+    line-height: 2rem;
+    margin-bottom: 3rem;
+    grid: 1;
+  }
+  
+  .container p {
+    color: rgb(242, 240, 240);
+  }
+  input[type=text]{
+    width: 70%;
+    height: 6%;
+    padding: 12px 20px;
+    margin: 9px 0;
+    display: inline-block;
+   
+    border-radius: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  .submit{
+  margin-left: 5rem;
+  background-color: rgb(27, 41, 235);
+  width: 40%;
+  height: 2rem;
+  border: 1.5rem;
+  color: aliceblue;
+  border-radius: 0.5rem;
+  
+  }
+  
+  h1{
+    color: rgb(12, 11, 11);
+    font-size: 2rem;
+    line-height: 2rem;
+    margin-bottom: 3rem;
+  }
+  .form p{
+  padding-left: .1rem;
+  padding-top: 2rem;
+  font-size: 1rem;
+  }
+  .password{
+  width: 20rem;
+  height: 7%;
+  }
+  
+  
+  
+  .left-container{
+    background-color: rgb(241, 241, 245);
+   
+    height: 50rem;
+    width: 37rem;
+    position: absolute;
+    bottom: 0px;
+    
+  }
+  .Cycles{
+    background-color:#4C6FFF;
+  
+    height: 300px;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border-radius: 180px;
+    
+  }
+  p{
+    font-size: 14px;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    margin-top: 5rem;
+  }
+  .Statistics{
+  
+    height: 200px;
+    width: 330px;
+    background-color: white;
+    position: absolute;
+    top: 10rem;
+    right: 2rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  
+  
+  
+  
